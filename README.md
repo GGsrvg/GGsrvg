@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GGsrvg
+- 👀 I’m interested in a happy life
+- 🌱 I’m currently learning Godot, GRDB and more...
+- 📫 How to reach me don't know
